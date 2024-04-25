@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @VinuthaRudramurthy
-- 👀 I’m interested in Develoment.
-- 🌱 I’m currently learning Skills related to Front-End Development.
+👋 Hello! I'm Vinutha Rudramurthy 👨‍💻
+
+🌟 Passionate about coding, exploring new technologies, and building cool stuff.
+
+🚀 Currently diving into Software Development and honing my skills in Front-End Development.
+
+💡 I love collaborating on open-source projects and learning from the community.
+
+📫 Let's connect!@linkedin.com/in/vinutha-c-r-00031a197
+
+---
+
+Feel free to customize this template to best represent yourself and your interests!
 
 <!---
 VinuthaRudramurthy/VinuthaRudramurthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
